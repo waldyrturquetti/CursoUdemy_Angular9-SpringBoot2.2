@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:cddit" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1db212a-152a-4b0d-a693-d4715d71b31b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjetoFinal-agendasApi1-appAngular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoFinal-agendasApi1-appAngular/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoFinal-agendasApi1-appAngular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoFinal-agendasApi1-appAngular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoFinal-agendasApi1-appAngular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoFinal-agendasApi1-appAngular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientes1-appBasicoAngular3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../clientes1-appBasicoAngular3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientes1-appBasicoAngular3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../clientes1-appBasicoAngular3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientes2-appAngular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../clientes2-appAngular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientes2-appAngular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../clientes2-appAngular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientes3-appAngular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../clientes3-appAngular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientes3-appAngular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../clientes3-appAngular/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iHSiKs6Hl5KFyAuJwpsim6MZgf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wturq\Desktop\Udemy\Java\Angular 9 + Spring Boot 2.2\clientes2\src\main\java\io\github\waldyrturquetti\clientes\config" />
+      <recent name="C:\Users\wturq\Desktop\Udemy\Java\Angular 9 + Spring Boot 2.2\clientes2\src\main\java\io\github\waldyrturquetti\clientes" />
+      <recent name="C:\Users\wturq\Desktop\Udemy\Java\Angular 9 + Spring Boot 2.2\clientes2" />
+      <recent name="C:\Users\wturq\Desktop\Udemy\Java\Angular 9 + Spring Boot 2.2\clientes2\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.waldyrturquetti.clientes.ClientesApplication" />
+      <module name="clientes2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.waldyrturquetti.clientes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1db212a-152a-4b0d-a693-d4715d71b31b" name="Default Changelist" comment="" />
+      <created>1601563152293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601563152293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601901645241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601901645241" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602036453671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601921545753" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601585176015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-125.1600.860@0.0.1536.824" timestamp="1602036453671" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602036453671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601921545753" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601585176015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.-125.1600.860@0.0.1536.824" timestamp="1602036453671" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602036453671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601921545753" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601585176015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.-125.1600.860@0.0.1536.824" timestamp="1602036453671" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602036453671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601921545753" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601585176015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.-125.1600.860@0.0.1536.824" timestamp="1602036453671" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1601577822775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601577822775" />
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog" timestamp="1601578113871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="111" key="refactoring.ChangeSignatureDialog/0.0.1366.728/-1920.-593.1920.1040@0.0.1366.728" timestamp="1601578113871" />
+  </component>
+</project>

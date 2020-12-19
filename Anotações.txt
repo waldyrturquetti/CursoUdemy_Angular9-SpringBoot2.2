@@ -1,0 +1,98 @@
+Link para o GitHub:
+https://github.com/cursodsousa/angular-e-spring-full-stack
+
+Link Lista de Icones:
+https://mdbootstrap.com/docs/jquery/content/icons-list/
+
+Link OAuth2:
+https://oauth.net/2/
+
+Link para o Spring Initializr:
+https://start.spring.io/
+
+Link SpringBoot:
+https://spring.io/projects/spring-boot
+
+Link AngularMaterial:
+https://material.angular.io/
+
+Link MaterialDesign: Utuizando o MatIconModule
+https://material.io/design
+
+
+- Fazer Leituras de informações do componente para o template:
+	- {{ cliente.nome }} : Interpolação
+	- [value]="nome" : Propert Binding (A varíavel nome foi criada no componente.ts)
+- Enviar informações do template para o componente
+	- (click) = "clicar()" : Event Binding
+- Agora o To Way Data Binding utilizada das duas formas: [(ngModel)]="nome"
+- Conforme a Arquitetura do Angular a utilização de Serviços tem o propósito de organizar o projeto de software Angular, isolando lógica de negócio e separando-a dos Controllers. Não é possível afirmar que seja obrigatório utilizar serviços, mas é muito desejável.
+Na prática não há diferença para o usuário porque, provavelmente, utilizar serviços não afetará diretamente o comportamento da interface. Assim, os benefícios ficam por conta da melhor organização do projeto e da Engenharia de Software para o projeto que está sendo desenvolvido.
+Um serviço é uma classe que pode ser utilizada por outros componentes do projeto. Dois detalhes importantes são: o que diferencia um serviço de outro tipo de componente e como um componente utiliza um serviço...
+link: https://jacksongomesbr.gitbooks.io/desenvolvimento-web-front-end-com-angular/content/servicos.html
+- Cross-Origin Resource Sharing (CORS):
+	CORS - Cross-Origin Resource Sharing (Compartilhamento de recursos com origens diferentes) é um mecanismo que usa cabeçalhos adicionais HTTP para informar a um navegador que permita que um aplicativo Web seja executado em uma origem (domínio) com permissão para acessar recursos selecionados de um servidor em uma origem distinta. Um aplicativo Web executa uma requisição cross-origin HTTP ao solicitar um recurso que tenha uma origem diferente (domínio, protocolo e porta) da sua própria origem.
+
+	Um exemplo de requisição cross-origin: o código JavaScript frontend de um aplicativo web disponível em http://domain-a.com usa XMLHttpRequest para fazer uma requisição para http://api.domain-b.com/data.json.
+
+	Por motivos de segurança, navegadores restringem requisições cross-origin HTTP iniciadas por scripts. Por exemplo, XMLHttpRequest e Fetch API seguem a política de mesma origem (same-origin policy). Isso significa que um aplicativo web que faz uso dessas APIs só poderá fazer solicitações para recursos de mesma origem da qual o aplicativo foi carregado, a menos que a resposta da outra origem inclua os cabeçalhos CORS corretos...
+link: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS
+- Sempre utilizamos o Bootstrap para ver alguns tipos de formuláris, alertas e outras viadagens suas viadagens
+- HTTP: 
+	O HTTP é um protocolo de comunicação. Através dele o cliente e o servidor conseguem se comunicar, seguindo um conjunto de regras bem definidas (por isso chamamos de protocolo).
+	Por exemplo, se estivermos falando de uma aplicação web, o cliente é o navegador, ele envia um pedido para o servidor web usando o protocolo HTTP, com base nesse pedido, se tudo estiver correto, o servidor responde também usando o mesmo protocolo o conteúdo solicitado.
+- Resquest:
+	A Request ou requisição traduzindo diretamente para português, é o pedido que um cliente realiza a nosso servidor. Esse pedido contém uma série de dados que são usados para descrever exatamente o que o cliente precisa. Vamos pensar que um cliente precisa cadastrar um novo produto, ele deve passar todos os dados necessários para o cadastro acontecer de maneira correta, inclusive os dados que foram digitados pelo usuário em um formulário, no caso de uma aplicação web.
+	No navegador toda vez que trocamos de página ou apertamos enter na barra de endereço uma nova request é feita. Independente se estamos apenas pedindo a exibição de uma página, cadastrando um novo recurso, atualizando ou excluindo. 
+
+- GET ou POST:
+	Tanto GET como POST na verdade são métodos HTTP. Eles indicam para o servidor qual a ação que o cliente deseja realizar. Quando realizamos uma requisição obrigatoriamente precisamos informar um método.
+
+	GET – é usado quando o cliente deseja obter recursos do servidor
+	POST – é usado quando o cliente deseja enviar dados para processamento ao servidor, como os dados de um formulário, por exemplo.
+	Existem outros métodos HTTP. Os dois métodos citados acima são os mais usados, principalmente em aplicações web. Quando o usuário digita um endereço e aperta enter na barra de endereço do navegador, ele realiza uma requisição do tipo GET. Já quando preenchemos um formulário e clicamos em enviar geralmente o método usado é o POST. 
+
+- Response: 
+	Vimos que o cliente envia uma Request (requisição) ao servidor. Essa requisição possui todas as informações acerca do que o cliente espera receber de volta. O servidor web ao receber essas informações precisa enviar uma resposta ao cliente, nesse ponto entra a Response.
+	A Response (resposta) nada mais é do que a resposta que o servidor envia ao cliente. Essa resposta pode conter os dados que realmente o cliente esperava receber ou uma resposta informando que alguma coisa deu errado.
+
+- O que é 200, 404, 301 e outros números? 
+	Esses números são os chamados códigos HTTP. Quando o cliente faz uma requisição ele espera uma resposta. O servidor pode realmente responder o que o cliente esperava ou devolver outra informação, justamente nesse ponto entram os códigos HTTP. O servidor utiliza um código desse na resposta para indicar o que aconteceu.
+	Os códigos estão entre 100 e 500, sendo que cada centena indica uma categoria:
+	– 1xx – Informativos
+	– 2xx – Indicativos de sucesso
+	– 3xx – Redirecionamentos
+	– 4xx – Erros do cliente na hora de fazer a solicitação
+	– 5xx – Erros no lado do servidor
+	Dentro de cada centena temos os códigos específicos, por exemplo:
+	– 200 – Tudo ocorreu corretamente
+	– 301 – Indica redirecionamento permanente
+	– 401 – Não autorizado
+	– 404 – O recurso solicitado não foi encontrado no servidor
+	Existem vários sites que especificam todos os códigos HTTP. Esse usa cachorrinhos como exemplo , mas se você gosta mais dos gatinhos também existe.
+
+- Usando `` tranformamos a string em um template string fazendo que possamos colocar expressões 
+EX:`http://localhost:8080/api/clientes/${id}`
+
+- http://localhost:8080/outhtoken é criado automaticamnete pelo próprio OAuth
+
+-Resource representa um objeto com dados. Resources é um conceito do REST
+-Controllers é utilizado para implementar esses resources, RESTcontroller
+
+- Para gerar a chave do JWT usar o Base64 encode
+
+- Local Storage: Dura as informações lá até que seja limpa
+  Session Storage : Dura apenas enquanto a aba estiver aberta
+
+- npm install @auth0/angular-jwt
+
+Config:
+Exception:
+Model:
+Entitys:
+Repository:
+Rest:
+DTO:
+Controller:
+Service:
+Util:
